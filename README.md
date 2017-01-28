@@ -1,2 +1,2 @@
-__react组件的生命周期__  
-[教程](https://segmentfault.com/a/1190000004168886)
+__react缁勪欢鐨勭敓鍛藉懆鏈焈_  
+[鏂囨。](https://facebook.github.io/react/docs/state-and-lifecycle.html)  
